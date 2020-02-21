@@ -6,4 +6,6 @@ Change:Implemented Login Feature
 
 Change:Implemented Logout Feature
 
-Change:To fix the bug1
+Change:To fix bug1
+
+Change:To fix bug2
