@@ -7,3 +7,5 @@ Change:Implemented Login Feature
 Change:Implemented Logout Feature
 
 Change:To fix the bug1
+
+Change:Change made by team mate for payment
